@@ -1,6 +1,6 @@
 var x = 1;
 
 doSomething() {
-   x = x+1;
-   var string = "elyse is the best girlfriend EVER!!!"; 
+   x = x+10;
+   var string = "elyse is the greatest girlfriend EVER!!!"; 
 }
