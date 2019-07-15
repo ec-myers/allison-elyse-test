@@ -1,0 +1,6 @@
+var x = 1;
+
+doSomething() {
+   x = x+1;
+   var string = "phish is the greatest band ever"; 
+}
